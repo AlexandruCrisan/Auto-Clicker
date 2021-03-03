@@ -28,6 +28,17 @@ Say what the step will be
 3. Debug it. (F5 in VS)
 ```
 
+### How to use it
+Here you can read more about the functionalities of the app and how to take adventage of them:
+
+```
+1. Check one of the options, depending on what type of click you want to be auto clicking (left or right).
+
+2. Hit "Start" or press F9 when you want to start the app.
+
+3. To stop it, hit "Stop" or F10.
+```
+
 ## Built With
 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) - IDE
